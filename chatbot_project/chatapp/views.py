@@ -3,7 +3,7 @@ from django.http import JsonResponse
 from langchain_google_genai import GoogleGenerativeAI
 
 # API key
-api_key = "AIzaSyAxnI674rpzjhAQ9lsBbtmpnDCX4eiQ7Oc"
+api_key = "I am hiding my key bcz of security issues"
 
 # Chatbot class, tumhara diya hua logic yahin hai
 class Chatbot:
