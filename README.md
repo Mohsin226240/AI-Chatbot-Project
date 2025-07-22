@@ -1,2 +1,1 @@
-# AI-Chatbot-Project
-A professional chatbot using Django and Gemini API Key.
+🤖 AI Chatbot using Gemini API (Google Generative AI) This project is a smart AI-powered chatbot built using Python and the Gemini API (Google Generative AI). It provides human-like responses and supports voice output using pyttsx3.
